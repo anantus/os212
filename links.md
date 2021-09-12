@@ -3,7 +3,7 @@ permalink: /LINKS/
 ---
 [HOME](https://anantus.github.io/os212/)<br>
 
-#Links for os212
+# Links for os212
 
 1. [VirtualBox Walkthrough](https://www.virtualbox.org/manual/ch01.html) <br>
 VirtualBox is a virtualization product which can be use by enterprise and home user. This links serve as an alternative guide from the VLSM OS website that serves as a virtualization for Windows, Linux, Macintosh, and solaris. This manual interests me as the links provided gave a nice explaination for every step in using the virtualbox.
