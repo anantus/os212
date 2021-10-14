@@ -28,8 +28,14 @@ ZCZC W04  10 L01 SCELE/Discord related
 ZCZC W04  20 L28 putty and winscp
 ZCZC W04  30 L06 References/Books/Documents/GSGS related
 ZCZC W05  30 L00 General, etc
-ZCZC W05  60 L15 Assignment $05
+ZCZC W05  60 L15 Assignment #05
 ZCZC W05  30 L22 Quiz
 ZCZC W05  15 L08 AsDos: Asking, etc.
 ZCZC W05  15 L26 C-language
 ZCZC W05  30 L28 SSH, key-gen
+ZCZC W06  60 L00 General,etc
+ZCZC W06  60 L16 Assignment #06
+ZCZC W06  30 L22 Quiz
+ZCZC W06  30 L26 C-language
+ZCZC W06  10 L01 SCELE related
+ZCZC W06  20 L06 Rreferences related
