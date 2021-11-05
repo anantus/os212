@@ -43,3 +43,11 @@ Multithreading is one of the topics that I have studied during the advanced prog
 This link perfectly compares how Thread and Process may differ based on our understanding, A process is the execution of a program that allows the user to perform a specific action within the program. Meanwhile, the thread is part of the process. However, the difference between the two is not limited to this. The web above explains the differences in more detail between the two.
 19. [PID and PPID](https://delightlylinux.wordpress.com/2012/06/25/what-is-pid-and-ppid/)<br>
 This link explains what PID and PPID is, even if PID and PPID have a similar names. PID (Process ID) is an ID of a running process. In addition, there is also a PPID (Parent Process ID), which is the ID of the parent process that causes the process to run.
+20. [Deadlock in OS](https://www.geeksforgeeks.org/introduction-of-deadlock-in-operating-system/)<br>
+This link explains how to indentify problems that may cause deadlocks and various ways to handle deadlocks if a deadlock has occur. This link also provides tips and trick so that deadlocks will rarely occur.
+21. [Deadlock Prevention and Avoidance](https://www.geeksforgeeks.org/deadlock-prevention/)<br>
+Explains what happens if a deadlock had already occurs. There are several techniues for recovery from deadlock conditions such as eliminate mutual exclusion, eliminate hold and wait or Banker's Algorithm
+22. [Banker's Algorithm in OS](https://www.geeksforgeeks.org/bankers-algorithm-in-operating-system-2/)<br>
+Such as the links above, this link explains one of the ways to prevent deadlock which is bankers algorithm. It is called Banker's algorithms because this algorithm uses a banking system to check whether a loan can be sanctioned or not.
+23. [Semaphores in Process Synchronization](https://www.geeksforgeeks.org/semaphores-in-process-synchronization/)<br>
+This link explains the definition of semaphore, the function and types of semaphore. Definition wise, semaphore is a variable that is non-negative and shared between threads. This variable is used to solve the critical section problem and to achieve process synchronization in the multiprocessing environment.

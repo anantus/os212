@@ -39,3 +39,8 @@ ZCZC W06  30 L22 Quiz
 ZCZC W06  30 L26 C-language
 ZCZC W06  10 L01 SCELE related
 ZCZC W06  20 L06 Rreferences related
+ZCZC W07  60 L00 General,etc
+ZCZC W07  60 L17 Assignment #07
+ZCZC W07  30 L28 Putty and winscp
+ZCZC W07  20 L06 Documents related
+ZCZC W07  10 L01 SCELE related
