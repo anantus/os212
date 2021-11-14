@@ -44,3 +44,8 @@ ZCZC W07  60 L17 Assignment #07
 ZCZC W07  30 L28 Putty and winscp
 ZCZC W07  20 L06 Documents related
 ZCZC W07  10 L01 SCELE related
+ZCZC W08  90 L18 Assignment #08
+ZCZC W08  30 L00 General, etc
+ZCZC W08  30 L25 Scripting
+ZCZC W08  20 L28 SSH and putty
+ZCZC W08  50 L32 Youtube tutorial
